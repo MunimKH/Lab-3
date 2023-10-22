@@ -1,0 +1,3 @@
+name,email,password,signup,login
+moni,1122,1122,True,True
+asim,asim,1122,True,False
